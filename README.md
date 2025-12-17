@@ -1,3 +1,4 @@
+Screenshot 2025-12-17 214408.png
 # Excel-GPT: Offline Financial Insight Analyzer
 
 An offline ChatGPT-like analytical tool built **entirely using Microsoft Excel formulas** to analyze financial data, parse user prompts, and generate insights — without cloud services, APIs, or subscription fees.
